@@ -1,0 +1,2 @@
+class AryaSamaj < ApplicationRecord
+end

@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  camp_id: 1
+  reference_person: MyString
+  aadhar_number: MyString
+  profession: MyString
+  user: one
+
+two:
+  camp_id: 1
+  reference_person: MyString
+  aadhar_number: MyString
+  profession: MyString
+  user: two
